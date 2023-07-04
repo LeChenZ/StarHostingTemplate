@@ -1,2 +1,1 @@
-# StarHostingTemplate
- Template d'un site vitrine d'hébergeur.
+Template d'un site vitrine d'hébergeur.
